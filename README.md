@@ -29,4 +29,4 @@ function main() {
 ``` 
 
 
-<small>No affiliation with or to HackerRank</small>
+No affiliation with or to HackerRank
